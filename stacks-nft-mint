@@ -1,0 +1,9 @@
+stacks-nft-mint/
+├── contracts/
+│   └── nft.clar
+├── frontend/
+│   ├── index.html
+│   └── app.js
+├── package.json
+└── README.md
+
